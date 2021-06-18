@@ -1,8 +1,8 @@
-name: AchievementIgnore
+name: IgnoreAchievements
 version: ${project.version}
 main: ru.armagidon.achievementignore.AchievementIgnore
 api-version: 1.14
 depend: [ProtocolLib]
 commands:
   ignoreachievements:
-    aliases: [aignore]
+    aliases: [ignorea]
