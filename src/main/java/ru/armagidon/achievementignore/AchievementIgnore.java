@@ -10,7 +10,6 @@ import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
-import javafx.util.Pair;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
@@ -33,9 +32,6 @@ public final class AchievementIgnore extends JavaPlugin implements Listener {
     private final Set<String> ignore = new HashSet<>();
 
     private FileConfiguration storage;
-
-    //
-    private final Queue<Pair<Player, String>> queue = new LinkedList<>();
 
     @Override
     public void onEnable() {
