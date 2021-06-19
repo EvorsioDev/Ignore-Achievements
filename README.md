@@ -11,7 +11,7 @@
 <h3>⚠️ Requires <a href="https://www.spigotmc.org/resources/protocollib.1997/">ProtocolLib</a> 4.6.0 for MC 1.16.x
 <h3>✔️ Recommended use on <a href="https://github.com/PaperMC/Paper">Paper</a> or others <a href="https://github.com/Tuinity/Tuinity">Paper Forks</a>.</h3>
 Tested on: <a href="https://getbukkit.org/">Spigot</a>, <a href="https://github.com/PaperMC/Paper">Paper</a>, <a href="https://github.com/Tuinity/Tuinity">Tuinity</a>,
-<a href="https://github.com/pl3xgaming/Purpur">Purpur</a>, <a href="https://github.com/TECHNOVE/Airplane">Airplane</a>, <a href="https://github.com/YatopiaMC/Yatopia">Yatopia</a>.
+<a href="https://github.com/pl3xgaming/Purpur">Purpur</a>, <a href="https://github.com/TECHNOVE/Airplane">Airplane</a>.
 
 ## Give it a try ##
 Available at the following options:
