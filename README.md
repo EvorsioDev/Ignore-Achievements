@@ -7,7 +7,7 @@
 
 <p align="left">plugin Ignore Achievements - allows you to ignore getting new achievements from players using just one command.</p>
 
-<h3>⚠️ Requires <a href="https://ci.dmulloy2.net/job/ProtocolLib/lastSuccessfulBuild/">ProtocolLib Dev Build</a> for MC 1.17 and Java 16
+<h3>⚠️ Requires <a href="https://www.spigotmc.org/resources/protocollib.1997/">ProtocolLib</a> 4.7.0 for MC 1.17.x
 <h3>⚠️ Requires <a href="https://www.spigotmc.org/resources/protocollib.1997/">ProtocolLib</a> 4.6.0 for MC 1.16.x
 <h3>✔️ Recommended use on <a href="https://github.com/PaperMC/Paper">Paper</a> or others <a href="https://github.com/Tuinity/Tuinity">Paper Forks</a>.</h3>
 Tested on: <a href="https://getbukkit.org/">Spigot</a>, <a href="https://github.com/PaperMC/Paper">Paper</a>, <a href="https://github.com/Tuinity/Tuinity">Tuinity</a>,
