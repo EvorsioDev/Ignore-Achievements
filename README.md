@@ -1,4 +1,4 @@
-  <h1>Ignore Achievements [Minecraft 1.14-1.17]</h1>
+  <h1>Ignore Achievements [Minecraft 1.14-1.17.x]</h1>
   <h3>Ignore new achievements players</h3>
   
 [![img1](https://img.shields.io/discord/720917120862519347?label=discord&logo=discord&style=for-the-badge)](https://discord.io/stumpstudio)
